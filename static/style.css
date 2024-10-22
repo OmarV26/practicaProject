@@ -1,0 +1,25 @@
+body {
+    background-color: lightblue;
+    background-image: url("/static/img/imagen1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    background-color: #146a80;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+.btn-primary {
+    background-color: #146a80;
+    border-color: #146a80;
+    color: white;
+}
+
+.btn-success {
+    background-color: #146a80;
+    border-color: #146a80;
+    color: white;
+}
